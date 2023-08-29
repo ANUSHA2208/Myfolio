@@ -1,7 +1,7 @@
 import React from 'react';
-import LoadMoreButtonComments from '../../components/loadmore/LoadMoreComments';
-import CommentForm from '../../components/form/CommentForm';
-import CommentsReply from '../../components/button/CommentsReply';
+import LoadMoreButtonComments from '../../../components/loadmore/LoadMoreComments';
+import CommentForm from '../../../components/form/CommentForm';
+import CommentsReply from '../../../components/button/CommentsReply';
 
 const JournalComments = () => {
     return (

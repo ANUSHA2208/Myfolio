@@ -1,29 +1,29 @@
 [
     {
         "id": "1",
-        "title": "The only guide to travel insurance you’ll ever need",
+        "title": "Case Study: Quillbot Mobile App",
         "link": "/journal-single-post",
         "imgLink": "assets/img/placeholder/527x500.jpg",
-        "imgAlt": "The only guide to travel insurance you’ll ever need",
-        "categoryTitle": "Travel",
+        "imgAlt": "Case Study: Quillbot Mobile App",
+        "categoryTitle": "UX Research",
         "categoryLink": "/journal"
     },
     {
         "id": "2",
-        "title": "The best boutique hotels in Europe’s",
+        "title": "Case Study : Redesigning a Mobile Banking App",
         "link": "/journal-single-post",
         "imgLink": "assets/img/placeholder/527x500.jpg",
-        "imgAlt": "The best boutique hotels in Europe’s",
-        "categoryTitle": "Travel",
+        "imgAlt": "Case Study : Redesigning a Mobile Banking App",
+        "categoryTitle": "UX Research",
         "categoryLink": "/journal"
     },
     {
         "id": "3",
-        "title": "What to do when holidays go wrong",
+        "title": "NFT Marketplace: UX Case Study",
         "link": "/journal-single-post",
         "imgLink": "assets/img/placeholder/527x500.jpg",
-        "imgAlt": "What to do when holidays go wrong",
-        "categoryTitle": "Travel",
+        "imgAlt": "NFT Marketplace: UX Case Study",
+        "categoryTitle": "UX Research",
         "categoryLink": "/journal"
     }
 ]

@@ -1,19 +1,19 @@
 import React, { Fragment } from 'react';
 import MetaTags from 'react-meta-tags';
 
-import Loading from '../blocks/loading/Loading';
-import Header from '../blocks/header/Header';
-import Footer from '../blocks/footer/Footer';
+import Loading from '../../blocks/loading/Loading';
+import Header from '../../blocks/header/Header';
+import Footer from '../../blocks/footer/Footer';
 
-import PageTitleJournalSingle from '../blocks/page-title/PageTitleJournalSingle';
-import JournalDescription from '../blocks/journal/JournalDescription';
-import JournalMeta from '../blocks/journal/JournalMeta';
-import JournalDate from '../blocks/journal/JournalDate';
-import JournalComments from '../blocks/journal/JournalComments';
-import JournalTags from '../blocks/journal/JournalTags';
-import Widget from '../blocks/widget/Widget';
+import PageTitleJournalSingle from '../../blocks/page-title/PageTitleJournalSingle';
+import JournalDescription from '../../blocks/journal/UX-Yono/JournalDescription';
+import JournalMeta from '../../blocks/journal/UX-Yono/JournalMeta';
+import JournalDate from '../../blocks/journal/UX-Yono/JournalDate';
+import JournalComments from '../../blocks/journal/UX-Yono/JournalComments';
+import JournalTags from '../../blocks/journal/UX-Yono/JournalTags';
+import Widget from '../../blocks/widget/Widget';
 
-const JournalSinglePost = () => {
+const Yono = () => {
     document.body.classList.add( 'single-post' );
     document.body.classList.add( 'bg-fixed' );
     document.body.classList.add( 'bg-line' );
@@ -22,7 +22,7 @@ const JournalSinglePost = () => {
         <Fragment>
             <MetaTags>
                 <meta charSet="UTF-8" />
-                <title>Journal Single Post | Oxer - Minimal Portfolio React Template</title>
+                <title>Journal Single Post</title>
 
                 <meta httpEquiv="x-ua-compatible" content="ie=edge" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -79,4 +79,4 @@ const JournalSinglePost = () => {
     );
 };
 
-export default JournalSinglePost;
+export default Yono;

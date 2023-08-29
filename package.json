@@ -55,6 +55,9 @@
       "ie 10"
     ]
   },
+  "engines": {
+    "node": "16.20.2" 
+  },
   "devDependencies": {
     "node-sass": "npm:sass"
   },

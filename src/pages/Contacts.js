@@ -17,7 +17,7 @@ const Contacts = () => {
         <Fragment>
             <MetaTags>
                 <meta charSet="UTF-8" />
-                <title>Contacts | Oxer - Minimal Portfolio React Template</title>
+                <title>Contacts</title>
 
                 <meta httpEquiv="x-ua-compatible" content="ie=edge" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -43,7 +43,7 @@ const Contacts = () => {
                                 <div className="col-xl-4 col-lg-4 col-md-4 col-12">
                                     <h2>Here you <br/>can <span className="line">contact me</span></h2>
 
-                                    <p className="mt-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.</p>
+                                    <p className="mt-0">Hey, it's great to have you here! If you're curious about my work, have a design challenge to tackle, or just want to say hi, this is the place to do it. Drop me a line, and let's start a conversation.</p>
                                 </div>
 
                                 <div className="col-xl-8 col-lg-8 col-md-8 col-12">
@@ -51,25 +51,25 @@ const Contacts = () => {
                                         <div className="list-group-item">
                                             <h4>City</h4>
 
-                                            <p>Colorado Springs</p>
-                                        </div>
-
-                                        <div className="list-group-item">
-                                            <h4>Clipping</h4>
-
-                                            <p>CO</p>
+                                            <p>Dharwad</p>
                                         </div>
 
                                         <div className="list-group-item">
                                             <h4>State</h4>
 
-                                            <p>Colorado</p>
+                                            <p>Karnataka</p>
+                                        </div>
+
+                                        <div className="list-group-item">
+                                            <h4>Pincode</h4>
+
+                                            <p>580001</p>
                                         </div>
 
                                         <div className="list-group-item">
                                             <h4>Phone</h4>
 
-                                            <p><a title="719-338-4628" href="tel:719-338-4628">719-338-4628</a></p>
+                                            <p><a title="719-338-4628" href="tel:8971232721">897-123-2721</a></p>
                                         </div>
                                     </div>
 
@@ -77,7 +77,7 @@ const Contacts = () => {
                                         <div className="list-group-item mb-0 pb-0">
                                             <h4>Email</h4>
 
-                                            <p><a title="hello@yourdomain.com" href="mailto:hello@yourdomain.com">hello@yourdomain.com</a></p>
+                                            <p><a title="hello@yourdomain.com" href="mailto:anushapatil2208@gmail.com">anushapatil2208@gmail.com</a></p>
                                         </div>
                                     </div>
                                 </div>

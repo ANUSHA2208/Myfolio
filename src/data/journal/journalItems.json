@@ -1,56 +1,56 @@
 [
     {
         "id": "1",
-        "title": "What to do when holidays go wrong. All the anwswers.",
-        "link": "/journal-single-post",
+        "title": "Case Study: Quillbot Mobile App",
+        "link": "/ux-quillbot-case-study",
         "imgLink": "assets/img/placeholder/527x500.jpg",
-        "imgAlt": "What to do when holidays go wrong. All the anwswers.",
-        "categoryTitle": "Travel",
+        "imgAlt": "Case Study: Quillbot Mobile App",
+        "categoryTitle": "UX Research",
         "categoryLink": "/journal"
     },
     {
         "id": "2",
-        "title": "The best boutique hotels in Europe’s. Where to find them?",
-        "link": "/journal-single-post",
+        "title": "Case Study : Redesigning a Mobile Banking App",
+        "link": "/ux-yono-case-study",
         "imgLink": "assets/img/placeholder/527x500.jpg",
-        "imgAlt": "The best boutique hotels in Europe’s. Where to find them?",
-        "categoryTitle": "Travel",
+        "imgAlt": "Case Study : Redesigning a Mobile Banking App",
+        "categoryTitle": "UX Research",
         "categoryLink": "/journal"
     },
     {
         "id": "3",
-        "title": "The only guide to travel insurance you’ll ever need",
+        "title": "NFT Marketplace: UX Case Study",
         "link": "/journal-single-post",
         "imgLink": "assets/img/placeholder/527x500.jpg",
-        "imgAlt": "The only guide to travel insurance you’ll ever need",
-        "categoryTitle": "Travel",
+        "imgAlt": "NFT Marketplace: UX Case Study",
+        "categoryTitle": "UX Research",
         "categoryLink": "/journal"
     },
     {
         "id": "4",
-        "title": "The only guide to travel insurance you’ll ever need",
+        "title": "Metaverse: The future of Internet",
         "link": "/journal-single-post",
         "imgLink": "assets/img/placeholder/527x500.jpg",
-        "imgAlt": "The only guide to travel insurance you’ll ever need",
-        "categoryTitle": "Travel",
+        "imgAlt": "Metaverse: The future of Internet",
+        "categoryTitle": "Technology",
         "categoryLink": "/journal"
     },
     {
         "id": "5",
-        "title": "The best boutique hotels in Europe’s. Where to find them?",
+        "title": "Why DuckDuckGo??",
         "link": "/journal-single-post",
         "imgLink": "assets/img/placeholder/527x500.jpg",
-        "imgAlt": "The best boutique hotels in Europe’s. Where to find them?",
-        "categoryTitle": "Travel",
+        "imgAlt": "DuckDuckGo",
+        "categoryTitle": "Technology",
         "categoryLink": "/journal"
     },
     {
         "id": "6",
-        "title": "The only guide to travel insurance you’ll ever need",
+        "title": "Browser War : Chrome vs Brave",
         "link": "/journal-single-post",
         "imgLink": "assets/img/placeholder/527x500.jpg",
-        "imgAlt": "The only guide to travel insurance you’ll ever need",
-        "categoryTitle": "Travel",
+        "imgAlt": "Chrome vs Brave",
+        "categoryTitle": "Technology",
         "categoryLink": "/journal"
     }
 ]

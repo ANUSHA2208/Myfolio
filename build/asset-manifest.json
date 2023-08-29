@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/project/oxer/react-js/demo/static/css/main.e276b157.chunk.css",
+    "main.js": "/project/oxer/react-js/demo/static/js/main.7088985d.chunk.js",
+    "main.js.map": "/project/oxer/react-js/demo/static/js/main.7088985d.chunk.js.map",
+    "runtime-main.js": "/project/oxer/react-js/demo/static/js/runtime-main.0d61e4ae.js",
+    "runtime-main.js.map": "/project/oxer/react-js/demo/static/js/runtime-main.0d61e4ae.js.map",
+    "static/css/2.af2598c0.chunk.css": "/project/oxer/react-js/demo/static/css/2.af2598c0.chunk.css",
+    "static/js/2.ddcd07a3.chunk.js": "/project/oxer/react-js/demo/static/js/2.ddcd07a3.chunk.js",
+    "static/js/2.ddcd07a3.chunk.js.map": "/project/oxer/react-js/demo/static/js/2.ddcd07a3.chunk.js.map",
+    "index.html": "/project/oxer/react-js/demo/index.html",
+    "precache-manifest.323a3c4ceb1ca4888eec001c04b80924.js": "/project/oxer/react-js/demo/precache-manifest.323a3c4ceb1ca4888eec001c04b80924.js",
+    "service-worker.js": "/project/oxer/react-js/demo/service-worker.js",
+    "static/css/2.af2598c0.chunk.css.map": "/project/oxer/react-js/demo/static/css/2.af2598c0.chunk.css.map",
+    "static/css/main.e276b157.chunk.css.map": "/project/oxer/react-js/demo/static/css/main.e276b157.chunk.css.map",
+    "static/media/style.scss": "/project/oxer/react-js/demo/static/media/oxer.fba0f7c0.eot",
+    "static/media/high-fidelity-wireframes.png": "/project/oxer/react-js/demo/static/media/high-fidelity-wireframes.e09705ce.png",
+    "static/media/mockup.png": "/project/oxer/react-js/demo/static/media/mockup.736439ee.png",
+    "static/media/quillbot-design_process.png": "/project/oxer/react-js/demo/static/media/quillbot-design_process.e216bd53.png",
+    "static/media/quillbot-flow.png": "/project/oxer/react-js/demo/static/media/quillbot-flow.bda09593.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d61e4ae.js",
+    "static/css/2.af2598c0.chunk.css",
+    "static/js/2.ddcd07a3.chunk.js",
+    "static/css/main.e276b157.chunk.css",
+    "static/js/main.7088985d.chunk.js"
+  ]
+}

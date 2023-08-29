@@ -14,7 +14,7 @@ const PageTitleHome = () => {
                         </div>
 
                         <div className="spacer p-top-lg">
-                            <p className="p-large w-75">My name is Luca Reynolds. I’m a photographer and heres is my portfolio. Have a look.</p>
+                            <p className="p-large w-75">My name is Anusha Patil. I’m a UX/UI Designer and heres is my portfolio. Have a look.</p>
                         </div>
                     </div>
 
@@ -23,7 +23,7 @@ const PageTitleHome = () => {
                             <div className="align-self-start w-100">
                                 <div className="img object-fit">
                                     <div className="object-fit-cover">
-                                        <img src="assets/img/placeholder/527x600.jpg" className="img-fluid" alt="Luca Reynolds" />
+                                        <img src="assets/img/placeholder/avatar.jpg" className="img-fluid" alt="Luca Reynolds" />
                                     </div>
                                 </div>
                             </div>

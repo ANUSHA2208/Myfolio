@@ -20,7 +20,7 @@
     {
         "id": "3",
         "title": "NFT Marketplace: UX Case Study",
-        "link": "/journal-single-post",
+        "link": "/ux-nft-case-study",
         "imgLink": "assets/img/placeholder/527x500.jpg",
         "imgAlt": "NFT Marketplace: UX Case Study",
         "categoryTitle": "UX Research",
@@ -29,27 +29,9 @@
     {
         "id": "4",
         "title": "Metaverse: The future of Internet",
-        "link": "/journal-single-post",
+        "link": "/Tech-metaverse",
         "imgLink": "assets/img/placeholder/527x500.jpg",
         "imgAlt": "Metaverse: The future of Internet",
-        "categoryTitle": "Technology",
-        "categoryLink": "/journal"
-    },
-    {
-        "id": "5",
-        "title": "Why DuckDuckGo??",
-        "link": "/journal-single-post",
-        "imgLink": "assets/img/placeholder/527x500.jpg",
-        "imgAlt": "DuckDuckGo",
-        "categoryTitle": "Technology",
-        "categoryLink": "/journal"
-    },
-    {
-        "id": "6",
-        "title": "Browser War : Chrome vs Brave",
-        "link": "/journal-single-post",
-        "imgLink": "assets/img/placeholder/527x500.jpg",
-        "imgAlt": "Chrome vs Brave",
         "categoryTitle": "Technology",
         "categoryLink": "/journal"
     }

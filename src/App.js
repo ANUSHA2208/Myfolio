@@ -11,6 +11,8 @@ import WorksInside from "./pages/WorksInside";
 import page404 from "./pages/404";
 import UserInterface from "./pages/UserInterface";
 import Yono from "./pages/Journals/Yono";
+import nft from "./pages/Journals/NFT";
+import Metaverse from "./pages/Journals/Metaverse";
 
 function App() {
   return (
@@ -55,24 +57,40 @@ function App() {
 
         <Route
           exact
+          path={`${process.env.PUBLIC_URL + "/ux-nft-case-study"}`}
+          component={nft}
+        />
+
+        <Route
+          exact
+          path={`${process.env.PUBLIC_URL + "/Tech-metaverse"}`}
+          component={Metaverse}
+        />
+
+        <Route
+          exact
           path={`${process.env.PUBLIC_URL + "/search-results"}`}
           component={SearchResults}
         />
+
         <Route
           exact
           path={`${process.env.PUBLIC_URL + "/works"}`}
           component={Works}
         />
+
         <Route
           exact
           path={`${process.env.PUBLIC_URL + "/ui"}`}
           component={UserInterface}
         />
+
         <Route
           exact
           path={`${process.env.PUBLIC_URL + "/works-inside"}`}
           component={WorksInside}
         />
+
         <Route exact component={page404} />
       </Switch>
     </Router>

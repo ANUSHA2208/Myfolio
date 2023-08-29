@@ -5,11 +5,13 @@ const JournalTags = () => {
         <div className="tags">
             <p>
                 <span className="tags-title">Tags:</span>
-                <a title="Art" href={ process.env.PUBLIC_URL + "/journal" }>Art</a>
+                <a title="UX Research" href={ process.env.PUBLIC_URL + "/journal" }>UX Research</a>
                 <span>,</span>
-                <a title="Culture" href={ process.env.PUBLIC_URL + "/journal" }>Culture</a>
+                <a title="Banking App" href={ process.env.PUBLIC_URL + "/journal" }>Banking App</a>
                 <span>,</span>
-                <a title="Capital" href={ process.env.PUBLIC_URL + "/journal" }>Capital</a>
+                <a title="UI/UX Design" href={ process.env.PUBLIC_URL + "/journal" }>UI/UX Design</a>
+                <span>,</span>
+                <a title="Redesign" href={ process.env.PUBLIC_URL + "/journal" }>Redesign</a>
             </p>
         </div>
     );

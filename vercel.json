@@ -1,7 +1,3 @@
 {
-  "builds": [
-    { "use": "yarn install" },
-    { "use": "yarn add node-sass@npm:sass -D" }
-  ],
-  "routes": [{ "src": "/(.*)", "dest": "index.html" }]
+  "routes": [{ "src": "/(.*)", "dest": "public/index.html" }]
 }

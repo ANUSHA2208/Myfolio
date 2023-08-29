@@ -16,7 +16,7 @@ import Metaverse from "./pages/Journals/Metaverse";
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route
           exact

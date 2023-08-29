@@ -2,7 +2,7 @@ import React from 'react';
 
 const JournalDate = () => {
     return (
-        <p className="date"><span className="large">25</span> May, 2020</p>
+        <p className="date"><span className="large">04</span> July, 2023</p>
     );
 };
 

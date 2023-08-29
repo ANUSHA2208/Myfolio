@@ -10,7 +10,7 @@ const Widget = () => {
         <aside id="aside" className="widget-area">
             <WidgetSearch />
 
-            <WidgetComments />
+            {/* <WidgetComments /> */}
 
             <WidgetArchives />
 

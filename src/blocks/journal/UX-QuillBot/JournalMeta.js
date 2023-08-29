@@ -8,11 +8,11 @@ const JournalMeta = () => {
 
                 <span className="text-secondary s-small bold">-</span>
 
-                <span className="text-secondary s-small bold">Comments (4)</span>
+                {/* <span className="text-secondary s-small bold">Comments (4)</span> */}
 
-                <span className="text-secondary s-small bold">-</span>
+                {/* <span className="text-secondary s-small bold">-</span> */}
 
-                <span className="category"><a title="Travel" className="text-secondary a-small bold" href={ process.env.PUBLIC_URL + "/journal" }>Travel</a></span>
+                <span className="category"><a title="UX Research" className="text-secondary a-small bold" href={ process.env.PUBLIC_URL + "/journal" }>UX Research</a></span>
             </p>
         </div>
     );

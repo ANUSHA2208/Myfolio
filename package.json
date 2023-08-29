@@ -35,8 +35,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "install-deps": "yarn install",
-    "build-deps": "yarn add node-sass@npm:sass -D"
+    "build-deps": "node-sass@npm:sass -D"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -54,9 +53,6 @@
       "last 1 safari version",
       "ie 10"
     ]
-  },
-  "engines": {
-    "node": "16.20.2" 
   },
   "devDependencies": {
     "node-sass": "npm:sass"

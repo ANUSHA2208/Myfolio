@@ -35,7 +35,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "install": "yarn install &&  && yarn add node-sass@npm:sass -D"
+    "install": "yarn install && yarn add node-sass@npm:sass -D"
   },
   "eslintConfig": {
     "extends": "react-app"

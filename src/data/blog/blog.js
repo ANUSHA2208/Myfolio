@@ -1,7 +1,6 @@
 import mockupQuillbot from "../../assets/journalImages/QuillBot/mockup.png";
 import mockupYono from "../../assets/journalImages/Yono/mockup.png";
 import mockupNft from "../../assets/journalImages/NFT/mockup.png";
-import mockupMetaverse from "../../assets/journalImages/Metaverse/mockup.jpg";
 
 export const blogs = [
   {

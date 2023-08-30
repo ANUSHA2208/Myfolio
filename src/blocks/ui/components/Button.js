@@ -8,7 +8,7 @@ const Button = () => {
                 <span className="line">Button</span>
             </h2>
 
-            <p>Oxer includes several predefined button styles, each serving its own semantic purpose, with a few extras thrown in for more control. </p>
+            <p>Anusha includes several predefined button styles, each serving its own semantic purpose, with a few extras thrown in for more control. </p>
 
             <div className="bd-example">
                 <button type="button" className="btn btn-primary">Primary</button>

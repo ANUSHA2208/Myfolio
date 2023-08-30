@@ -5,11 +5,11 @@ import Loading from "../../blocks/loading/Loading";
 import Header from "../../blocks/header/Header";
 import Footer from "../../blocks/footer/Footer";
 
-import PageTitleJournalSingle from "../../blocks/page-title/PageTitleJournalSingle";
+// import PageTitleJournalSingle from "../../blocks/page-title/PageTitleJournalSingle";
 import JournalDescription from "../../blocks/journal/Tech-Metaverse/JournalDescription";
 import JournalMeta from "../../blocks/journal/Tech-Metaverse/JournalMeta";
 import JournalDate from "../../blocks/journal/Tech-Metaverse/JournalDate";
-import JournalComments from "../../blocks/journal/Tech-Metaverse/JournalComments";
+// import JournalComments from "../../blocks/journal/Tech-Metaverse/JournalComments";
 import JournalTags from "../../blocks/journal/Tech-Metaverse/JournalTags";
 import Widget from "../../blocks/widget/Widget";
 import img from '../../assets/journalImages/Metaverse/mockup.jpg'
@@ -80,7 +80,7 @@ const Metaverse = () => {
 
                   <JournalTags />
 
-                  <JournalComments />
+                  {/* <JournalComments /> */}
                 </div>
 
                 <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12">

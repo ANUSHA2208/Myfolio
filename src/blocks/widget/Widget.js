@@ -1,6 +1,6 @@
 import React from 'react';
 import WidgetSearch from '../widget/WidgetSearch';
-import WidgetComments from '../widget/WidgetComments';
+// import WidgetComments from '../widget/WidgetComments';
 import WidgetArchives from '../widget/WidgetArchives';
 import WidgetCategories from '../widget/WidgetCategories';
 import WidgetMeta from '../widget/WidgetMeta';

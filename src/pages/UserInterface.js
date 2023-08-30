@@ -39,7 +39,7 @@ const UserInterface = () => {
         <Fragment>
             <MetaTags>
                 <meta charSet="UTF-8" />
-                <title>UI | Oxer - Minimal Portfolio React Template</title>
+                <title>UI | Anusha Patil - UX & UI Designer Portfolio</title>
 
                 <meta httpEquiv="x-ua-compatible" content="ie=edge" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />

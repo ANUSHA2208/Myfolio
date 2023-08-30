@@ -5,11 +5,11 @@ import Loading from "../../blocks/loading/Loading";
 import Header from "../../blocks/header/Header";
 import Footer from "../../blocks/footer/Footer";
 
-import PageTitleJournalSingle from "../../blocks/page-title/PageTitleJournalSingle";
+// import PageTitleJournalSingle from "../../blocks/page-title/PageTitleJournalSingle";
 import JournalDescription from "../../blocks/journal/UX-QuillBot/JournalDescription";
 import JournalMeta from "../../blocks/journal/UX-QuillBot/JournalMeta";
 import JournalDate from "../../blocks/journal/UX-QuillBot/JournalDate";
-import JournalComments from "../../blocks/journal/UX-QuillBot/JournalComments";
+// import JournalComments from "../../blocks/journal/UX-QuillBot/JournalComments";
 import JournalTags from "../../blocks/journal/UX-QuillBot/JournalTags";
 import Widget from "../../blocks/widget/Widget";
 
@@ -80,7 +80,7 @@ const QuillBot = () => {
 
                   <JournalTags />
 
-                  <JournalComments />
+                  {/* <JournalComments /> */}
                 </div>
 
                 <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12">

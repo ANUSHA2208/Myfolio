@@ -5,11 +5,11 @@ import Loading from "../../blocks/loading/Loading";
 import Header from "../../blocks/header/Header";
 import Footer from "../../blocks/footer/Footer";
 
-import PageTitleJournalSingle from "../../blocks/page-title/PageTitleJournalSingle";
+// import PageTitleJournalSingle from "../../blocks/page-title/PageTitleJournalSingle";
 import JournalDescription from "../../blocks/journal/UX-Yono/JournalDescription";
 import JournalMeta from "../../blocks/journal/UX-Yono/JournalMeta";
 import JournalDate from "../../blocks/journal/UX-Yono/JournalDate";
-import JournalComments from "../../blocks/journal/UX-Yono/JournalComments";
+// import JournalComments from "../../blocks/journal/UX-Yono/JournalComments";
 import JournalTags from "../../blocks/journal/UX-Yono/JournalTags";
 import Widget from "../../blocks/widget/Widget";
 import img from '../../assets/journalImages/Yono/mockup.png'
@@ -79,7 +79,7 @@ const Yono = () => {
 
                   <JournalTags />
 
-                  <JournalComments />
+                  {/* <JournalComments /> */}
                 </div>
 
                 <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12">

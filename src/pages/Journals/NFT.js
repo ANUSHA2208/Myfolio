@@ -5,11 +5,11 @@ import Loading from "../../blocks/loading/Loading";
 import Header from "../../blocks/header/Header";
 import Footer from "../../blocks/footer/Footer";
 
-import PageTitleJournalSingle from "../../blocks/page-title/PageTitleJournalSingle";
+// import PageTitleJournalSingle from "../../blocks/page-title/PageTitleJournalSingle";
 import JournalDescription from "../../blocks/journal/UX-NFT/JournalDescription";
 import JournalMeta from "../../blocks/journal/UX-NFT/JournalMeta";
 import JournalDate from "../../blocks/journal/UX-NFT/JournalDate";
-import JournalComments from "../../blocks/journal/UX-NFT/JournalComments";
+// import JournalComments from "../../blocks/journal/UX-NFT/JournalComments";
 import JournalTags from "../../blocks/journal/UX-NFT/JournalTags";
 import Widget from "../../blocks/widget/Widget";
 import img from '../../assets/journalImages/NFT/mockup.png'
@@ -80,7 +80,7 @@ const NFT = () => {
 
                   <JournalTags />
 
-                  <JournalComments />
+                  {/* <JournalComments /> */}
                 </div>
 
                 <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12">

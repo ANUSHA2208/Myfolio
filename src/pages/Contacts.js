@@ -51,7 +51,7 @@ const Contacts = () => {
                                         <div className="list-group-item">
                                             <h4>City</h4>
 
-                                            <p>Dharwad</p>
+                                            <p>Hubli-Dharwad</p>
                                         </div>
 
                                         <div className="list-group-item">

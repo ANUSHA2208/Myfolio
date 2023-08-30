@@ -8,7 +8,7 @@ const PageTitleUserInterface = () => {
                     <h1>UI<span className="dot">.</span>
                     </h1>
 
-                    <div className="title-clone">Oxer.</div>
+                    <div className="title-clone">anusha.</div>
                 </div>
             </div>
         </section>

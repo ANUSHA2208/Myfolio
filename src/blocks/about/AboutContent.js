@@ -1,4 +1,5 @@
 import React from "react";
+import avatarReverse from "../../assets/img/placeholder/avatarRev.jpg";
 
 const AboutContent = () => {
   return (
@@ -13,8 +14,8 @@ const AboutContent = () => {
           <div className="img object-fit">
             <div className="object-fit-cover">
               <img
-                src="assets/img/placeholder/527x600.jpg"
-                alt="Luca Reynolds"
+                src={avatarReverse}
+                alt="Anusha Patil"
                 className="img-fluid"
               />
             </div>

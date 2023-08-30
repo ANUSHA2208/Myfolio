@@ -12,7 +12,7 @@ import JournalDate from "../../blocks/journal/UX-Yono/JournalDate";
 import JournalComments from "../../blocks/journal/UX-Yono/JournalComments";
 import JournalTags from "../../blocks/journal/UX-Yono/JournalTags";
 import Widget from "../../blocks/widget/Widget";
-import img from '../../assets/Journal images/Yono/mockup.png'
+import img from '../../assets/journalImages/Yono/mockup.png'
 
 const Yono = () => {
   document.body.classList.add("single-post");
@@ -23,7 +23,7 @@ const Yono = () => {
     <Fragment>
       <MetaTags>
         <meta charSet="UTF-8" />
-        <title>Journal Single Post</title>
+        <title>Yono</title>
 
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />

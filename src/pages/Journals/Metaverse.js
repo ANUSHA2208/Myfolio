@@ -12,7 +12,7 @@ import JournalDate from "../../blocks/journal/Tech-Metaverse/JournalDate";
 import JournalComments from "../../blocks/journal/Tech-Metaverse/JournalComments";
 import JournalTags from "../../blocks/journal/Tech-Metaverse/JournalTags";
 import Widget from "../../blocks/widget/Widget";
-import img from '../../assets/Journal images/Metaverse/mockup.jpg'
+import img from '../../assets/journalImages/Metaverse/mockup.jpg'
 
 
 const Metaverse = () => {
@@ -24,7 +24,7 @@ const Metaverse = () => {
     <Fragment>
       <MetaTags>
         <meta charSet="UTF-8" />
-        <title>Journal Single Post</title>
+        <title>Metaverse</title>
 
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />

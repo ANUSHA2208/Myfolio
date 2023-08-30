@@ -1,7 +1,7 @@
 import React from "react";
-import userinterview from "../../../assets/Journal images/Yono/analysis.png";
-import ab from "../../../assets/Journal images/Yono/a-b testing.png";
-import ui from "../../../assets/Journal images/Yono/UI.png";
+import userinterview from "../../../assets/journalImages/Yono/analysis.png";
+import ab from "../../../assets/journalImages/Yono/a-b testing.png";
+import ui from "../../../assets/journalImages/Yono/UI.png";
 
 const JournalDescription = () => {
   return (

@@ -1,5 +1,5 @@
 import React from "react";
-import userflow from '../../../assets/Journal images/NFT/userflow.png'
+import userflow from '../../../assets/journalImages/NFT/userflow.png'
 
 const JournalDescription = () => {
   return (

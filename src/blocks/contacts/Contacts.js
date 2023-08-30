@@ -5,7 +5,7 @@ const Contacts = () => {
         <section id="contact" className="block spacer p-top-xl">
             <div className="wrapper">
                 <div className="text-center">
-                    <h3 className="mb-0 after">Like my work? Want to have a good quality photographies? <br/>You can contact me now!
+                    <h3 className="mb-0 after">Like my work? Want to have a top quality web and mobile application designs? <br/>You can contact me now!
                     </h3>
 
                     <div className="block spacer p-top-lg">

@@ -13,7 +13,7 @@ import JournalComments from "../../blocks/journal/UX-QuillBot/JournalComments";
 import JournalTags from "../../blocks/journal/UX-QuillBot/JournalTags";
 import Widget from "../../blocks/widget/Widget";
 
-import img from '../../assets/Journal images/QuillBot/mockup.png'
+import img from '../../assets/journalImages/QuillBot/mockup.png'
 
 const QuillBot = () => {
   document.body.classList.add("single-post");
@@ -24,7 +24,7 @@ const QuillBot = () => {
     <Fragment>
       <MetaTags>
         <meta charSet="UTF-8" />
-        <title>Journal Single Post</title>
+        <title>QuillBot</title>
 
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />

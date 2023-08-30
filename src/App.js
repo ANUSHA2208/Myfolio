@@ -45,6 +45,11 @@ function App() {
         />
         <Route
           exact
+          path={`${process.env.PUBLIC_URL + "/ux-research"}`}
+          component={Journal}
+        />
+        <Route
+          exact
           path={`${process.env.PUBLIC_URL + "/ux-quillbot-case-study"}`}
           component={QuillBot}
         />

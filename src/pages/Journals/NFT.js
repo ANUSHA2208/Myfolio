@@ -12,7 +12,7 @@ import JournalDate from "../../blocks/journal/UX-NFT/JournalDate";
 import JournalComments from "../../blocks/journal/UX-NFT/JournalComments";
 import JournalTags from "../../blocks/journal/UX-NFT/JournalTags";
 import Widget from "../../blocks/widget/Widget";
-import img from '../../assets/Journal images/NFT/mockup.png'
+import img from '../../assets/journalImages/NFT/mockup.png'
 
 
 const NFT = () => {
@@ -24,7 +24,7 @@ const NFT = () => {
     <Fragment>
       <MetaTags>
         <meta charSet="UTF-8" />
-        <title>Journal Single Post</title>
+        <title>NFT</title>
 
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />

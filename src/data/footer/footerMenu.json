@@ -1,22 +1,27 @@
 [
-    {
-        "id": "1",
-        "title": "Facebook",
-        "link": "https://www.facebook.com/adveits/"
-    },
-    {
-        "id": "2",
-        "title": "Instagram",
-        "link": "https://www.instagram.com/adveits/"
-    },
-    {
-        "id": "3",
-        "title": "Twitter",
-        "link": "https://www.twitter.com/adveits/"
-    },
-    {
-        "id": "4",
-        "title": "Behance",
-        "link": "https://www.behance.net/adveits/"
-    }
+  {
+    "id": "1",
+    "title": "LinkedIn",
+    "link": "https://www.linkedin.com/in/anusha-patil-167b79162/"
+  },
+  {
+    "id": "2",
+    "title": "Instagram",
+    "link": "https://instagram.com/_patil_anusha/"
+  },
+  {
+    "id": "3",
+    "title": "Dribble",
+    "link": "https://dribbble.com/anusha_patil2208/"
+  },
+  {
+    "id": "4",
+    "title": "Medium",
+    "link": "https://medium.com/@anushapatil2208/"
+  },
+  {
+    "id": "5",
+    "title": "GitHub",
+    "link": "https://www.github.com/anusha2208/"
+  }
 ]

@@ -1,7 +1,7 @@
 import React from 'react';
-import design_process from '../../../assets/Journal images/QuillBot/quillbot-design_process.png'
-import userflow from '../../../assets/Journal images/QuillBot/quillbot-flow.png'
-import ui from '../../../assets/Journal images/QuillBot/high-fidelity-wireframes.png'
+import design_process from '../../../assets/journalImages/QuillBot/quillbot-design_process.png'
+import userflow from '../../../assets/journalImages/QuillBot/quillbot-flow.png'
+import ui from '../../../assets/journalImages/QuillBot/high-fidelity-wireframes.png'
 
 const JournalDescription = () => {
     return (

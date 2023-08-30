@@ -1,31 +1,48 @@
-import React from 'react';
+import React from "react";
 
 const AboutContent = () => {
-    return (
-        <div id="about" className="block">
-            <h2>
-                <span className="line">A passionate</span><br/> photographer, designer in media.
-            </h2>
+  return (
+    <div id="about" className="block">
+      <h2>
+        <span className="line">A passionate</span>
+        <br /> ui/ux designer.
+      </h2>
 
-            <div className="row bg-half-ring-left gutter-width-lg">
-                <div className="col align-self-top pl-0">
-                    <div className="img object-fit">
-                        <div className="object-fit-cover">
-                            <img src="assets/img/placeholder/527x600.jpg" alt="Luca Reynolds" className="img-fluid" />
-                        </div>
-                    </div>
-                </div>
-
-                <div className="col align-self-center description">
-                    <h4>I’m Luca Reynolds</h4>
-
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-
-                    <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-                </div>
+      <div className="row bg-half-ring-left gutter-width-lg">
+        <div className="col align-self-top pl-0">
+          <div className="img object-fit">
+            <div className="object-fit-cover">
+              <img
+                src="assets/img/placeholder/527x600.jpg"
+                alt="Luca Reynolds"
+                className="img-fluid"
+              />
             </div>
+          </div>
         </div>
-    );
+
+        <div className="col align-self-center description">
+          <h4>I’m Anusha Patil</h4>
+
+          <p>
+            Passionate UI/UX designer with over 1 year of hands-on experience
+            shaping digital experiences. My journey has been a blend of
+            creativity and strategy, expertly uniting user insights with
+            innovative designs. Proficient in every phase of the design process,
+            from immersive UX research and sleek UI design to wireframing,
+            dynamic prototyping, and turning visions into reality with HTML,
+            CSS, and ReactJS.
+          </p>
+
+          <p>
+            My goal is to craft intuitive, pixel-perfect solutions that
+            captivate users and drive meaningful connections. Let's collaborate
+            to bring your digital aspirations to life!"
+          </p>
+        </div>
+      </div>
+    </div>
+  );
 };
 
 export default AboutContent;

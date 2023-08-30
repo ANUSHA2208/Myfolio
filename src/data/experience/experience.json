@@ -1,38 +1,15 @@
 [
     {
         "id": "1",
-        "title": "Designer at company",
-        "date": "2015 May - 2020 April",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec bibendum mauris. Curabitur quis vehicula leo. Vivamus leo ipsum, convallis at magna sit amet, blandit condimentum neque. Quisque non feugiat diam, at vehicula leo."
+        "title": "CATALYSTS REACHOUT",
+        "date": "2022 Jan - 2023 April",
+        "description": "Worked on total 5+ projects , My role was to do UX Research , UI designing (Figma) and development (ReactJs)"
     },
     {
         "id": "2",
-        "title": "Illustrator at company",
-        "date": "2015 May - 2020 April",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec bibendum mauris. Curabitur quis vehicula leo. Vivamus leo ipsum, convallis at magna sit amet, blandit condimentum neque. Quisque non feugiat diam, at vehicula leo."
-    },
-    {
-        "id": "3",
-        "title": "Phorographer at company",
-        "date": "2015 May - 2020 April",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec bibendum mauris. Curabitur quis vehicula leo. Vivamus leo ipsum, convallis at magna sit amet, blandit condimentum neque. Quisque non feugiat diam, at vehicula leo."
-    },
-    {
-        "id": "4",
-        "title": "Analytic at company",
-        "date": "2015 May - 2020 April",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec bibendum mauris. Curabitur quis vehicula leo. Vivamus leo ipsum, convallis at magna sit amet, blandit condimentum neque. Quisque non feugiat diam, at vehicula leo."
-    },
-    {
-        "id": "5",
-        "title": "Model at company",
-        "date": "2015 May - 2020 April",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec bibendum mauris. Curabitur quis vehicula leo. Vivamus leo ipsum, convallis at magna sit amet, blandit condimentum neque. Quisque non feugiat diam, at vehicula leo."
-    },
-    {
-        "id": "6",
-        "title": "CEO at company",
-        "date": "2015 May - 2020 April",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec bibendum mauris. Curabitur quis vehicula leo. Vivamus leo ipsum, convallis at magna sit amet, blandit condimentum neque. Quisque non feugiat diam, at vehicula leo."
+        "title": "PACKET- FANATIC LLC",
+        "date": "2022 Nov - 2023 Feb",
+        "description": "Worked on NPG Managenment Web Application , My role was to design screens and built UI System"
     }
+  
 ]

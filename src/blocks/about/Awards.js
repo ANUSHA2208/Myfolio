@@ -5,7 +5,7 @@ const Awards = () => {
     return (
         <div id="awards" className="block spacer p-top-xl">
             <h2 className="text-right">
-                <span className="line">Awards</span> I’ve earned.
+                <span className="line">Skills</span> I’ve earned.
             </h2>
 
             <div className="row gutter-width-lg with-pb-lg">

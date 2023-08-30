@@ -12,7 +12,7 @@ import JournalDate from "../../blocks/journal/Tech-Metaverse/JournalDate";
 import JournalComments from "../../blocks/journal/Tech-Metaverse/JournalComments";
 import JournalTags from "../../blocks/journal/Tech-Metaverse/JournalTags";
 import Widget from "../../blocks/widget/Widget";
-import img from '../../assets/Journal images/Metaverse/mockup.gif'
+import img from '../../assets/Journal images/Metaverse/mockup.jpg'
 
 
 const Metaverse = () => {

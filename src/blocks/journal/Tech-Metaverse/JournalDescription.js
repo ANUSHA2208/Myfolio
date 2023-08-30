@@ -1,5 +1,4 @@
 import React from "react";
-import metaverse from "../../../assets/Journal images/Metaverse/metaverse.gif";
 
 const JournalDescription = () => {
   return (
@@ -12,9 +11,6 @@ const JournalDescription = () => {
         your environment, and this bring in the concept of METAVERSE.
       </p>
       <h5 style={{ color: "black" }}>What is Metaverse ?</h5>
-      <p>
-        <img src={metaverse} />
-      </p>
       <p>
         It is a set of virtual or augmented spaces which we can create or
         explore with other people who aren’t in the same physical space as you

@@ -1,4 +1,3 @@
-
 export const galleryitems = [
     {
         id: "1",
@@ -27,7 +26,15 @@ export const galleryitems = [
     {
         id: "4",
         title: "Painting photography",
-        category: "gallery-item-visible product",
+        category: "gallery-item-visible personal",
+        link: "/works-inside",
+        imgLink: "assets/img/placeholder/637x637.jpg",
+        button: "Look inside"
+    },
+    {
+        id: "5",
+        title: "Randi photography",
+        category: "gallery-item-visible personal",
         link: "/works-inside",
         imgLink: "assets/img/placeholder/637x637.jpg",
         button: "Look inside"

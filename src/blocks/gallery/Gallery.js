@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import Isotope from 'isotope-layout';
 import ImagesLoaded from 'imagesloaded';
 import PropTypes from 'prop-types';
-import GalleryMenuData from '../../data/gallery/galleryMenu';
-import GalleryItemsData from '../../data/gallery/galleryItems';
+import {galleryMenudata} from '../../data/gallery/galleryMenu.js';
+import {galleryitems} from '../../data/gallery/galleryItems.js';
 
 class Gallery extends Component {
     constructor( props ) {
@@ -12,7 +12,7 @@ class Gallery extends Component {
 
         this.state = {
             selected: 0,
-            list: GalleryMenuData
+            list: galleryMenudata
         };
     }
 
@@ -99,7 +99,7 @@ class Gallery extends Component {
                 </div>
                 <div className={"gallery-item-wrapper" + this.props.paddingBottomClass} >
                     <div className="gallery-items" ref={ ( c ) => this.grid = c }>
-                        { GalleryItemsData && GalleryItemsData.map( ( item, key ) => {
+                        { galleryMenudata && galleryMenudata.map( ( item, key ) => {
                             return (
                                 <a key={ key } title={ item.title } className={ "gallery-item active " + item.category } href={ process.env.PUBLIC_URL + item.link }>
                                     <div className="img object-fit">

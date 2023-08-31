@@ -6,22 +6,12 @@ export const galleryMenudata = [
     },
     {
         id: "2",
-        title: "Art & Culture",
-        filter: "culture"
+        title: "UI Design",
+        filter: "ui"
     },
     {
         id: "3",
         title: "Product",
         filter: "product"
-    },
-    {
-        id:"4",
-        title: "Personal",
-        filter: "personal"
-    },
-    {
-        id: "5",
-        title: "Portrait",
-        filter: "portrait"
     }
 ];

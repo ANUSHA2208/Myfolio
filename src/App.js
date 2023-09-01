@@ -7,12 +7,16 @@ import Journal from "./pages/Journal";
 import QuillBot from "./pages/Journals/Quillbot";
 import SearchResults from "./pages/SearchResults";
 import Works from "./pages/Works";
-import WorksInside from "./pages/WorksInside";
 import page404 from "./pages/404";
 import UserInterface from "./pages/UserInterface";
 import Yono from "./pages/Journals/Yono";
 import nft from "./pages/Journals/NFT";
 import Metaverse from "./pages/Journals/Metaverse";
+import Glasses from "./pages/WorksInside/UI Designs/Glasses";
+import Music from "./pages/WorksInside/UI Designs/Music";
+import Ecom from "./pages/WorksInside/UI Designs/Ecom";
+import Chatgpt from "./pages/WorksInside/UI Designs/Chatgpt";
+import Ums from "./pages/WorksInside/Product/Ums";
 
 function App() {
   return (
@@ -92,8 +96,32 @@ function App() {
 
         <Route
           exact
-          path={`${process.env.PUBLIC_URL + "/works-inside"}`}
-          component={WorksInside}
+          path={`${process.env.PUBLIC_URL + "/work-ui-design-glasses"}`}
+          component={Glasses}
+        />
+
+        <Route
+          exact
+          path={`${process.env.PUBLIC_URL + "/work-ui-design-music"}`}
+          component={Music}
+        />
+
+        <Route
+          exact
+          path={`${process.env.PUBLIC_URL + "/work-ui-design-ecom"}`}
+          component={Ecom}
+        />
+
+        <Route
+          exact
+          path={`${process.env.PUBLIC_URL + "/work-ui-design-chatgpt"}`}
+          component={Chatgpt}
+        />
+
+        <Route
+          exact
+          path={`${process.env.PUBLIC_URL + "/work-product-design-ums"}`}
+          component={Ums}
         />
 
         <Route exact component={page404} />

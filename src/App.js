@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Contacts from "./pages/Contacts";
@@ -21,118 +21,28 @@ import Digi from "./pages/WorksInside/Product/Digi";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
-      <Switch>
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/"}`}
-          component={Home}
-        />
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/about"}`}
-          component={About}
-        />
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/about"}`}
-          component={About}
-        />
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/contacts"}`}
-          component={Contacts}
-        />
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/journal"}`}
-          component={Journal}
-        />
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/ux-research"}`}
-          component={Journal}
-        />
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/ux-quillbot-case-study"}`}
-          component={QuillBot}
-        />
-
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/ux-yono-case-study"}`}
-          component={Yono}
-        />
-
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/ux-nft-case-study"}`}
-          component={nft}
-        />
-
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/Tech-metaverse"}`}
-          component={Metaverse}
-        />
-
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/search-results"}`}
-          component={SearchResults}
-        />
-
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/works"}`}
-          component={Works}
-        />
-
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/ui"}`}
-          component={UserInterface}
-        />
-
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/work-ui-design-glasses"}`}
-          component={Glasses}
-        />
-
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/work-ui-design-music"}`}
-          component={Music}
-        />
-
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/work-ui-design-ecom"}`}
-          component={Ecom}
-        />
-
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/work-ui-design-chatgpt"}`}
-          component={Chatgpt}
-        />
-
-        <Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/work-product-design-ums"}`}
-          component={Ums}
-        />
-
-<Route
-          exact
-          path={`${process.env.PUBLIC_URL + "/work-product-design-digi"}`}
-          component={Digi}
-        />
-
-        <Route exact component={page404} />
-      </Switch>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contacts" element={<Contacts />} />
+        <Route path="/journal" element={<Journal />} />
+        <Route path="/ux-research" element={<Journal />} />
+        <Route path="/ux-quillbot-case-study" element={<QuillBot />} />
+        <Route path="/ux-yono-case-study" element={<Yono />} />
+        <Route path="/ux-nft-case-study" element={<nft />} />
+        <Route path="/Tech-metaverse" element={<Metaverse />} />
+        <Route path="/search-results" element={<SearchResults />} />
+        <Route path="/works" element={<Works />} />
+        <Route path="/ui" element={<UserInterface />} />
+        <Route path="/work-ui-design-glasses" element={<Glasses />} />
+        <Route path="/work-ui-design-music" element={<Music />} />
+        <Route path="/work-ui-design-ecom" element={<Ecom />} />
+        <Route path="/work-ui-design-chatgpt" element={<Chatgpt />} />
+        <Route path="/work-product-design-ums" element={<Ums />} />
+        <Route path="/work-product-design-digi" element={<Digi />} />
+        <Route path="*" element={<page404 />} />
+      </Routes>
     </Router>
   );
 }

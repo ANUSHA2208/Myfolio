@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a4cf7e1765ec00983880f73e884fe73",
+    "revision": "2afb8f8110351f224d2d8b4efae4bd8d",
     "url": "/index.html"
   },
   {
-    "revision": "51f77addfff1a4ce9f80",
+    "revision": "4a2fe59d632a6e09d4e7",
     "url": "/static/css/2.af2598c0.chunk.css"
   },
   {
-    "revision": "8e9c17831c2c63ea24d2",
+    "revision": "33d64145e46f00afaa74",
     "url": "/static/css/main.7f99a570.chunk.css"
   },
   {
-    "revision": "51f77addfff1a4ce9f80",
-    "url": "/static/js/2.736acd5b.chunk.js"
+    "revision": "4a2fe59d632a6e09d4e7",
+    "url": "/static/js/2.6ac05a0e.chunk.js"
   },
   {
-    "revision": "8e9c17831c2c63ea24d2",
-    "url": "/static/js/main.a63fb5c9.chunk.js"
+    "revision": "33d64145e46f00afaa74",
+    "url": "/static/js/main.ca0c2356.chunk.js"
   },
   {
     "revision": "7f2ab9312695db43eeca",
@@ -148,12 +148,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bg-line.bc68ae45.svg"
   },
   {
-    "revision": "86932c8efe8cad1b7dd34a42318a12fe",
-    "url": "/static/media/ecom.86932c8e.png"
-  },
-  {
-    "revision": "1e7ec15d5d57da396d3228b652993eb0",
-    "url": "/static/media/glasses.1e7ec15d.png"
+    "revision": "ffe5be065e718e1751a4f8a214fab35f",
+    "url": "/static/media/gallery-ums-mockup.ffe5be06.jpg"
   },
   {
     "revision": "e09705cef7ee58704d09803cb84ef12f",
@@ -164,32 +160,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/icon-arrow-down.cd4ffaf1.svg"
   },
   {
-    "revision": "ba7ed876925a4e742a20684ef434bc50",
-    "url": "/static/media/mockup-chatgpt.ba7ed876.png"
+    "revision": "dfbfd8546352dec8bb34324c6e559846",
+    "url": "/static/media/mockup-chatgpt.dfbfd854.jpg"
   },
   {
-    "revision": "5e01f0a82d3539c3923fa12c20683c15",
-    "url": "/static/media/mockup-spotify.5e01f0a8.png"
+    "revision": "3ace1b3ec0ad63318f4c3b4b4467f698",
+    "url": "/static/media/mockup-digi-1.3ace1b3e.jpg"
   },
   {
-    "revision": "7a8feefdf9954c065efbee9c0c327fe3",
-    "url": "/static/media/mockup-ums-1.7a8feefd.png"
+    "revision": "eee8c68e577a1a8277961d1d5218b1a7",
+    "url": "/static/media/mockup-digi.eee8c68e.jpg"
   },
   {
-    "revision": "02d7f215626b98f084fc66fffc27bc6f",
-    "url": "/static/media/mockup-ums-2.02d7f215.png"
+    "revision": "2394a3d1a3dcd17209c4c26d2af61833",
+    "url": "/static/media/mockup-ecom.2394a3d1.jpg"
   },
   {
-    "revision": "577ba58b3c78f0c538e42cbbebc41e52",
-    "url": "/static/media/mockup-ums.577ba58b.png"
+    "revision": "e89c71d3b80db98b8895c7a496f6cf33",
+    "url": "/static/media/mockup-glasses.e89c71d3.jpg"
+  },
+  {
+    "revision": "6405b4fd5497651f8f4211ee9e048014",
+    "url": "/static/media/mockup-spotify.6405b4fd.png"
+  },
+  {
+    "revision": "7d4bf3ec69971216eae39ea8b66ee0e0",
+    "url": "/static/media/mockup-ums-1.7d4bf3ec.jpg"
+  },
+  {
+    "revision": "5f7987205ea39bf01b6dd2f5fa679d08",
+    "url": "/static/media/mockup-ums-2.5f798720.jpg"
+  },
+  {
+    "revision": "d0829d375e62117b94b16fe87440f89f",
+    "url": "/static/media/mockup-ums.d0829d37.jpg"
   },
   {
     "revision": "3ec596a25f1d55be9b5a4163957ffc8b",
     "url": "/static/media/mockup.3ec596a2.png"
-  },
-  {
-    "revision": "652588f494bab0f9a7b728f287339c61",
-    "url": "/static/media/mockup.652588f4.png"
   },
   {
     "revision": "736439eefe0103585f75c95534dbb47f",

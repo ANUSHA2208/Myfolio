@@ -45,7 +45,6 @@ export const galleryitems = [
     imgLink: music,
     button: "Look inside",
   },
-
   {
     id: "6",
     title: "Chatgpt Landing Page",

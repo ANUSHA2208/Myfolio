@@ -18,16 +18,23 @@ import Ecom from "./pages/WorksInside/UI Designs/Ecom";
 import Chatgpt from "./pages/WorksInside/UI Designs/Chatgpt";
 import Ums from "./pages/WorksInside/Product/Ums";
 import Digi from "./pages/WorksInside/Product/Digi";
+import UxResearch from "./pages/JournalCategory/UxResearch";
+import UxUiDesign from "./pages/JournalCategory/UxUiDesign";
+import Technology from "./pages/JournalCategory/Technology";
+import Educational from "./pages/JournalCategory/Educational";
 
 function App() {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <Routes>
         <Route path={"/"} element={<Home />}></Route>
         <Route path={`/about`} element={<About />} />
         <Route path="/contacts" element={<Contacts />} />
         <Route path="/journal" element={<Journal />} />
-        <Route path="/ux-research" element={<Journal />} />
+        <Route path="/ux-research" element={<UxResearch />} />
+        <Route path="/ux-ui-design" element={<UxUiDesign />} />
+        <Route path="/technology" element={<Technology />} />
+        <Route path="/educational" element={<Educational />} />
         <Route path="/ux-quillbot-case-study" element={<QuillBot />} />
         <Route path="/ux-yono-case-study" element={<Yono />} />
         <Route path="/ux-nft-case-study" element={<Nft />} />
@@ -43,7 +50,7 @@ function App() {
         <Route path="/work-product-design-digi" element={<Digi />} />
         <Route path="*" element={<Page404 />} />
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 

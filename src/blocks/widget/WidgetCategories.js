@@ -7,19 +7,19 @@ const WidgetCategories = () => {
 
             <ul>
                 <li className="cat-item">
-                    <a title="UX Research" href={ process.env.PUBLIC_URL + "/journal" }>UX Research</a>
+                    <a title="UX Research" href={ process.env.PUBLIC_URL + "/ux-research" }>UX Research</a>
                 </li>
 
                 <li className="cat-item">
-                    <a title="Technology" href={ process.env.PUBLIC_URL + "/journal" }>Technology</a>
+                    <a title="Technology" href={ process.env.PUBLIC_URL + "/technology" }>Technology</a>
                 </li>
 
                 <li className="cat-item">
-                    <a title="UI/UX Design" href={ process.env.PUBLIC_URL + "/journal" }>UI/UX Design</a>
+                    <a title="UI/UX Design" href={ process.env.PUBLIC_URL + "/ux-ui-design" }>UI/UX Design</a>
                 </li>
 
                 <li className="cat-item">
-                    <a title="Educational" href={ process.env.PUBLIC_URL + "/journal" }>Educational</a>
+                    <a title="Educational" href={ process.env.PUBLIC_URL + "/educational" }>Educational</a>
                 </li>
 
             </ul>

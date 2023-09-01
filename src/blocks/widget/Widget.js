@@ -8,15 +8,15 @@ import WidgetMeta from '../widget/WidgetMeta';
 const Widget = () => {
     return (
         <aside id="aside" className="widget-area">
-            <WidgetSearch />
+            {/* <WidgetSearch /> */}
 
             {/* <WidgetComments /> */}
 
-            <WidgetArchives />
+            {/* <WidgetArchives /> */}
 
             <WidgetCategories />
 
-            <WidgetMeta />
+            {/* <WidgetMeta /> */}
         </aside>
     );
 };

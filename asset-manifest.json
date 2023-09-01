@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f99a570.chunk.css",
+    "main.js": "/static/js/main.accde4bb.chunk.js",
+    "main.js.map": "/static/js/main.accde4bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.76592ba1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.76592ba1.js.map",
+    "static/css/2.af2598c0.chunk.css": "/static/css/2.af2598c0.chunk.css",
+    "static/js/2.ed525123.chunk.js": "/static/js/2.ed525123.chunk.js",
+    "static/js/2.ed525123.chunk.js.map": "/static/js/2.ed525123.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eec9d4c4e314d9aa3174abbd340c3530.js": "/precache-manifest.eec9d4c4e314d9aa3174abbd340c3530.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af2598c0.chunk.css.map": "/static/css/2.af2598c0.chunk.css.map",
+    "static/css/main.7f99a570.chunk.css.map": "/static/css/main.7f99a570.chunk.css.map",
+    "static/media/style.scss": "/static/media/oxer.fba0f7c0.eot",
+    "static/media/UI.png": "/static/media/UI.c9b5cd35.png",
+    "static/media/a-b testing.png": "/static/media/a-b testing.1327e3ed.png",
+    "static/media/analysis.png": "/static/media/analysis.4950d1dc.png",
+    "static/media/avatar.jpg": "/static/media/avatar.35490df1.jpg",
+    "static/media/avatarRev.jpg": "/static/media/avatarRev.dbbcca82.jpg",
+    "static/media/ecom.png": "/static/media/ecom.86932c8e.png",
+    "static/media/glasses.png": "/static/media/glasses.1e7ec15d.png",
+    "static/media/high-fidelity-wireframes.png": "/static/media/high-fidelity-wireframes.e09705ce.png",
+    "static/media/mockup-chatgpt.png": "/static/media/mockup-chatgpt.ba7ed876.png",
+    "static/media/mockup-spotify.png": "/static/media/mockup-spotify.5e01f0a8.png",
+    "static/media/mockup-ums-1.png": "/static/media/mockup-ums-1.7a8feefd.png",
+    "static/media/mockup-ums-2.png": "/static/media/mockup-ums-2.02d7f215.png",
+    "static/media/mockup-ums.png": "/static/media/mockup-ums.577ba58b.png",
+    "static/media/mockup.png": "/static/media/mockup.cc334c75.png",
+    "static/media/mockup.jpg": "/static/media/mockup.bbd083ac.jpg",
+    "static/media/quillbot-design_process.png": "/static/media/quillbot-design_process.e216bd53.png",
+    "static/media/quillbot-flow.png": "/static/media/quillbot-flow.bda09593.png",
+    "static/media/userflow.png": "/static/media/userflow.187280c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76592ba1.js",
+    "static/css/2.af2598c0.chunk.css",
+    "static/js/2.ed525123.chunk.js",
+    "static/css/main.7f99a570.chunk.css",
+    "static/js/main.accde4bb.chunk.js"
+  ]
+}

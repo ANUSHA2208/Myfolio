@@ -9,7 +9,7 @@ import PageTitle404 from '../blocks/page-title/PageTitle404';
 import BackToHome from '../components/button/BackToHome';
 import SearchForm from '../components/form/SearchForm';
 
-const page404 = () => {
+const Page404 = () => {
     document.body.classList.add( 'error404' );
     document.body.classList.add( 'bg-fixed' );
     document.body.classList.add( 'bg-line' );
@@ -57,4 +57,4 @@ const page404 = () => {
     );
 };
 
-export default page404;
+export default Page404;

@@ -4,7 +4,8 @@ import MetaTags from "react-meta-tags";
 import Loading from "../../../blocks/loading/Loading";
 import Header from "../../../blocks/header/Header";
 import Footer from "../../../blocks/footer/Footer";
-import img from "../../../assets/Work (UI)/mockup-chatgpt.png";
+import img from "../../../assets/Works/product/digi/mockup-digi.jpg";
+import img1 from "../../../assets/Works/product/digi/mockup-digi-1.jpg";
 
 const Digi = () => {
   document.body.classList.add("single");
@@ -40,6 +41,11 @@ const Digi = () => {
                   <div className="img object-fit">
                     <div className="object-fit-cover">
                       <img src={img} alt="Product photography" />
+                    </div>
+                  </div>
+                  <div className="img object-fit">
+                    <div className="object-fit-cover">
+                      <img src={img1} alt="Product photography" />
                     </div>
                   </div>
                 </div>

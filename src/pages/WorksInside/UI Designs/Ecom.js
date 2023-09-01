@@ -4,7 +4,7 @@ import MetaTags from "react-meta-tags";
 import Loading from "../../../blocks/loading/Loading";
 import Header from "../../../blocks/header/Header";
 import Footer from "../../../blocks/footer/Footer";
-import img from "../../../assets/Work (UI)/ecom.png";
+import img from "../../../assets/Works/ui-design/mockup-ecom.jpg";
 
 const Ecom = () => {
   document.body.classList.add("single");

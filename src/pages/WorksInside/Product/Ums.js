@@ -4,9 +4,9 @@ import MetaTags from "react-meta-tags";
 import Loading from "../../../blocks/loading/Loading";
 import Header from "../../../blocks/header/Header";
 import Footer from "../../../blocks/footer/Footer";
-import img from "../../../assets/Work (UI)/mockup-ums.png";
-import img1 from '../../../assets/Work (UI)/mockup-ums-1.png'
-import img2 from '../../../assets/Work (UI)/mockup-ums-2.png'
+import img from "../../../assets/Works/product/ums/mockup-ums.jpg";
+import img1 from '../../../assets/Works/product/ums/mockup-ums-1.jpg'
+import img2 from '../../../assets/Works/product/ums/mockup-ums-2.jpg'
 
 const Ums = () => {
   document.body.classList.add("single");

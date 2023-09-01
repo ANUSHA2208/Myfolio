@@ -15,7 +15,7 @@ import Widget from "../../blocks/widget/Widget";
 import img from '../../assets/journalImages/NFT/mockup.png'
 
 
-const NFT = () => {
+const Nft = () => {
   document.body.classList.add("single-post");
   document.body.classList.add("bg-fixed");
   document.body.classList.add("bg-line");
@@ -97,4 +97,4 @@ const NFT = () => {
   );
 };
 
-export default NFT;
+export default Nft;

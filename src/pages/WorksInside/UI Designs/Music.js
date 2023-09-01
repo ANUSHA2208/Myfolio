@@ -4,7 +4,7 @@ import MetaTags from "react-meta-tags";
 import Loading from "../../../blocks/loading/Loading";
 import Header from "../../../blocks/header/Header";
 import Footer from "../../../blocks/footer/Footer";
-import img from "../../../assets/Work (UI)/mockup-spotify.png";
+import img from "../../../assets/Works/ui-design/mockup-spotify.png";
 
 const Music = () => {
   document.body.classList.add("single");

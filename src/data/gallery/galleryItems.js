@@ -19,9 +19,9 @@ export const galleryitems = [
     },
     {
         id: "3",
-        title: "Painting photography",
+        title: "Digi Ayurveda",
         category: "gallery-item-visible product",
-        link: "/works-inside",
+        link: "/work-product-design-digi",
         imgLink: "assets/img/placeholder/637x637.jpg",
         button: "Look inside"
     },

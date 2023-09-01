@@ -17,6 +17,7 @@ import Music from "./pages/WorksInside/UI Designs/Music";
 import Ecom from "./pages/WorksInside/UI Designs/Ecom";
 import Chatgpt from "./pages/WorksInside/UI Designs/Chatgpt";
 import Ums from "./pages/WorksInside/Product/Ums";
+import Digi from "./pages/WorksInside/Product/Digi";
 
 function App() {
   return (
@@ -122,6 +123,12 @@ function App() {
           exact
           path={`${process.env.PUBLIC_URL + "/work-product-design-ums"}`}
           component={Ums}
+        />
+
+<Route
+          exact
+          path={`${process.env.PUBLIC_URL + "/work-product-design-digi"}`}
+          component={Digi}
         />
 
         <Route exact component={page404} />

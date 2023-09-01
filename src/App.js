@@ -25,7 +25,7 @@ import Educational from "./pages/JournalCategory/Educational";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path={"/"} element={<Home />}></Route>
         <Route path={`/about`} element={<About />} />
@@ -50,7 +50,7 @@ function App() {
         <Route path="/work-product-design-digi" element={<Digi />} />
         <Route path="*" element={<Page404 />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

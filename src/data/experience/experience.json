@@ -1,12 +1,24 @@
 [
     {
         "id": "1",
+        "title": "PIMWORKS",
+        "date": "2023 Oct - 2024 Jan",
+        "description": "Worked on redesigning pimworks website , My role was to do UX Design & UI designing (Figma)"
+    },
+    {
+        "id": "2",
+        "title": "FREELANCE",
+        "date": "2023 Sep - 2023 Dec",
+        "description": "Worked on designing Astrologer App , My role was to do UX Research & UI designing (Figma)"
+    },
+    {
+        "id": "3",
         "title": "CATALYSTS REACHOUT",
         "date": "2022 Jan - 2023 April",
         "description": "Worked on total 5+ projects , My role was to do UX Research , UI designing (Figma) and development (ReactJs)"
     },
     {
-        "id": "2",
+        "id": "4",
         "title": "PACKET- FANATIC LLC",
         "date": "2022 Nov - 2023 Feb",
         "description": "Worked on NPG Managenment Web Application , My role was to design screens and built UI System"
